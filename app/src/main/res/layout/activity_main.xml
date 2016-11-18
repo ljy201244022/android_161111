@@ -56,6 +56,12 @@
         android:layout_height="wrap_content"
         android:id="@+id/button4" />
 
+    <Button
+        android:text="Division2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button5" />
+
     <TextView
         android:text="Result"
         android:layout_width="match_parent"
